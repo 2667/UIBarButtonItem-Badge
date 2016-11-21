@@ -17,7 +17,6 @@
 		1A2EC0EF1DD028D400F369D5 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A2EC0EE1DD028D400F369D5 /* FirstViewController.m */; };
 		1A2EC0F21DD028F300F369D5 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A2EC0F11DD028F300F369D5 /* SecondViewController.m */; };
 		1A2EC0F51DD0290200F369D5 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A2EC0F41DD0290200F369D5 /* ThirdViewController.m */; };
-		A04091391DE2CED000237C9A /* 改了名-百思不得姐51-重复刷新.zip in Resources */ = {isa = PBXBuildFile; fileRef = A04091381DE2CED000237C9A /* 改了名-百思不得姐51-重复刷新.zip */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,7 +38,6 @@
 		1A2EC0F11DD028F300F369D5 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		1A2EC0F31DD0290200F369D5 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ThirdViewController.h; path = ../ThirdViewController.h; sourceTree = "<group>"; };
 		1A2EC0F41DD0290200F369D5 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ThirdViewController.m; path = ../ThirdViewController.m; sourceTree = "<group>"; };
-		A04091381DE2CED000237C9A /* 改了名-百思不得姐51-重复刷新.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "改了名-百思不得姐51-重复刷新.zip"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				1A2EC0CE1DD0280F00F369D5 /* UIBarButtonItemBadgeDemo */,
-				A04091381DE2CED000237C9A /* 改了名-百思不得姐51-重复刷新.zip */,
 				1A2EC0CD1DD0280F00F369D5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -170,7 +167,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A2EC0DF1DD0280F00F369D5 /* LaunchScreen.storyboard in Resources */,
-				A04091391DE2CED000237C9A /* 改了名-百思不得姐51-重复刷新.zip in Resources */,
 				1A2EC0DC1DD0280F00F369D5 /* Assets.xcassets in Resources */,
 				1A2EC0DA1DD0280F00F369D5 /* Main.storyboard in Resources */,
 			);
